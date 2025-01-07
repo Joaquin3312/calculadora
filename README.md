@@ -1,3 +1,6 @@
+## One of the first projects I worked on when I started with React a couple of years ago. 👽
+check out this little project on gh-pages: https://joaquin3312.github.io/calculadora/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
